@@ -32,7 +32,3 @@ We are actively cleaning up and organizing the code for public release.
   year={2025}
 }
 ```
-
----
-
-Let me know if you'd like help generating the actual images, drawing attention to collaborators, or writing a shorter version for the project description area (`About` sidebar).
