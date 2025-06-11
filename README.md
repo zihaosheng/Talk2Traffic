@@ -17,6 +17,10 @@ Autonomous vehicles need to be tested in diverse, often rare, traffic scenariosâ
 
 ![Editing Workflow](https://zihaosheng.github.io/Talk2Traffic/static/images/fig2.svg)
 
+## Poster
+
+![poster](https://raw.githubusercontent.com/zihaosheng/Talk2Traffic/html/static/images/poster.png)
+  
 ## ðŸ“¢ Code Release
 
 We are actively cleaning up and organizing the code for public release.
